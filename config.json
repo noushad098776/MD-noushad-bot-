@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "—͞  Habib ᥫ᭡",
+  "nickNameBot": "—͞  Noushad ᥫ᭡",
   "prefix": ".",
   "noPrefix": {
   "enable": true,
@@ -23,7 +23,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100079043707149",
+    "100090762227135",
     "100079043707149",
     "61567875354215"
   ],
@@ -36,7 +36,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100079043707149"
+      "100090762227135"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
